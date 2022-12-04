@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- :telescope: I’m working as a Software Engineer and contributing to backend for making banking products.
+- :telescope: I’m working as a Senior Product Engineer and contributing to backend for making banking products.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suroju-samyuktha/)
 
