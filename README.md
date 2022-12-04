@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Samyuktha-S&theme=dark&background=000000)](https://git.io/streak-stats)
-    <p align="center"><img align="center" src="github-readme-streak-stats.herokuapp.com?user=Samyuktha-S&theme=dark&background=000000></p>
+
 
 <!--
 **Samyuktha-S/Samyuktha-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
